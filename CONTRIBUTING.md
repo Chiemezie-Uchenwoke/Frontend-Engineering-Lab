@@ -6,14 +6,14 @@ This guide explains how to contribute and the structure every contribution shoul
 
 ## Types of Contributions
 
-- **Technical articles** — patterns, techniques, deep dives
-- **Architecture discussions** — design decisions and their tradeoffs
-- **Performance optimization techniques** — with measurements where possible
-- **Code examples** — concise, production-oriented snippets
-- **Case studies** — real incidents, migrations, refactors, lessons learned
-- **Best practices** — with the reasoning behind them
-- **Interview preparation resources** — grounded in real engineering
-- **Improvements** — fixing typos, clarifying explanations, updating outdated content
+- **Technical articles** => patterns, techniques, deep dives
+- **Architecture discussions** => design decisions and their tradeoffs
+- **Performance optimization techniques** => with measurements where possible
+- **Code examples** => concise, production-oriented snippets
+- **Case studies** =>real incidents, migrations, refactors, lessons learned
+- **Best practices** => with the reasoning behind them
+- **Interview preparation resources** => grounded in real engineering
+- **Improvements** => fixing typos, clarifying explanations, updating outdated content
 
 ## Contribution Principles
 
@@ -26,10 +26,10 @@ This guide explains how to contribute and the structure every contribution shoul
 
 ## Article Structure
 
-Articles follow a common structure so the knowledge base stays consistent and easy to read. Use the sections that apply to your article and add any others it needs — only the metadata header is required. Start by copying a template from [`templates/`](templates/):
+Articles follow a common structure so the knowledge base stays consistent and easy to read. Use the sections that apply to your article and add any others it needs, only the metadata header is required. Start by copying a template from [`templates/`](templates/):
 
-- [`templates/article-template.md`](templates/article-template.md) — for patterns, techniques, and deep dives
-- [`templates/case-study-template.md`](templates/case-study-template.md) — for real-world stories and incidents
+- [`templates/article-template.md`](templates/article-template.md) => for patterns, techniques, and deep dives
+- [`templates/case-study-template.md`](templates/case-study-template.md) => for real-world stories and incidents
 
 ### 1. Metadata header (required)
 
@@ -41,13 +41,13 @@ Every article starts with this header:
 > **Topic:** React · **Level:** Intermediate · **Author:** [@yourhandle](https://github.com/yourhandle)
 ```
 
-- **Topic** — the section the article belongs to (React, TypeScript, Performance, etc.)
-- **Level** — `Beginner`, `Intermediate`, or `Advanced`
-- **Author** — your GitHub handle (so you get credit!)
+- **Topic** => the section the article belongs to (React, TypeScript, Performance, etc.)
+- **Level** => `Beginner`, `Intermediate`, or `Advanced`
+- **Author** => your GitHub handle (so you get credit!)
 
 ### 2. Recommended sections
 
-Most articles work well with this shape — use what applies:
+Most articles work well with this shape, use what applies:
 
 | Section | Purpose |
 |---|---|
@@ -128,4 +128,4 @@ By participating, you agree to follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Questions?
 
-Open an issue with the `question` label — we're happy to help you get your first contribution merged. 
+Open an issue with the `question` label, we're happy to help you get your first contribution merged. 

@@ -8,3 +8,4 @@ Thumbs.db
 
 # Node (for future code examples)
 node_modules/
+.DS_Store

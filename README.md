@@ -1,6 +1,6 @@
 # Frontend Engineering Lab
 
-> A community-driven collection of frontend engineering knowledge — patterns, architecture decisions, performance techniques, testing strategies, real-world lessons from building production software etc
+> A community-driven collection of frontend engineering knowledge, patterns, architecture decisions, performance techniques, testing strategies, real-world lessons from building production software etc
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -21,7 +21,7 @@ Most frontend content online teaches you *how to use a tool*. Very little teache
 - What broke at scale, and how was it fixed?
 - What tradeoffs were made, and were they worth it?
 
-That knowledge usually lives in private Slack threads, internal docs, and the heads of senior engineers. **This repo is where we write it down — together.**
+That knowledge usually lives in private Slack threads, internal docs, and the heads of senior engineers. **This repo is where we write it down, together.**
 
 ## What You'll Find Here
 
@@ -38,15 +38,15 @@ That knowledge usually lives in private Slack threads, internal docs, and the he
 | [`case-studies/`](case-studies/) | Real-world stories: incidents, migrations, refactors, lessons learned |
 | [`interview-prep/`](interview-prep/) | Frontend interview preparation grounded in real engineering |
 
-> **Don't see your topic?** The sections above are a starting point, not a limit. You can propose a new top-level topic (e.g. `animations/`, `security/`, `build-tooling/`) — it just has to follow the same structure as the existing ones. See [Proposing a New Top-Level Topic](CONTRIBUTING.md#proposing-a-new-top-level-topic).
+> **Don't see your topic?** The sections above are a starting point, not a limit. You can propose a new top-level topic (e.g. `animations/`, `security/`, `build-tooling/`), it just has to follow the same structure as the existing ones. See [Proposing a New Top-Level Topic](CONTRIBUTING.md#proposing-a-new-top-level-topic).
 
 ## Who Can Contribute?
 
 **Anyone.**
 
-- **Junior developers** — share something you recently learned. Explaining it helps you *and* the next person.
-- **Mid-level engineers** — document a solution you shipped, a bug you debugged, a pattern you adopted.
-- **Senior engineers** — share architecture decisions, tradeoff analyses, and war stories from production.
+- **Junior developers** => share something you recently learned. Explaining it helps you *and* the next person.
+- **Mid-level engineers** => document a solution you shipped, a bug you debugged, a pattern you adopted.
+- **Senior engineers** => share architecture decisions, tradeoff analyses, and war stories from production.
 
 The goal is to build a high-quality knowledge base that helps frontend engineers learn from each other's experiences. Your first open-source contribution is welcome here, this is a friendly place to start.
 
@@ -63,11 +63,11 @@ We value:
 ## Getting Started
 
 1. **Fork** the repository
-2. **Create a branch** — `git checkout -b add/react-error-boundaries`
+2. **Create a branch** `git checkout -b add/react-error-boundaries`
 3. **Copy a template** from [`templates/`](templates/) and write your contribution
 4. **Open a Pull Request**
 
-All contributions follow a consistent structure so the knowledge base stays high-quality and easy to navigate. **Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting** — it takes 3 minutes and explains the article format, naming conventions, and review process.
+All contributions follow a consistent structure so the knowledge base stays high-quality and easy to navigate. **Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting**, it takes 3 minutes and explains the article format, naming conventions, and review process.
 
 ### Not sure what to write?
 
@@ -100,9 +100,9 @@ frontend-engineering-lab/
 
 If you find this repository useful:
 
-- **Star it** — it helps other engineers discover it
+- **Star it** => it helps other engineers discover it
 - **Share it** with your team or on social media
-- **Contribute** — even fixing a typo counts
+- **Contribute** => even fixing a typo counts
 
 ## License
 
