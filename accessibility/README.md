@@ -6,7 +6,7 @@ Building inclusive, accessible interfaces — practical a11y beyond the checklis
 
 <!-- Add a link to your article below, keeping the list alphabetical. -->
 
-*No articles yet — [be the first to contribute!](../CONTRIBUTING.md)*
+- [Frontend Accessibilty Testing Workflow](./frontend-accessibility-testing-workflow.md)
 
 ## Ideas for Contributions (but not limited to)
 
