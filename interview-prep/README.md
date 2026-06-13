@@ -6,7 +6,7 @@ Frontend interview preparation grounded in real engineering — not memorized tr
 
 <!-- Add a link to your article below, keeping the list alphabetical. -->
 
-*No articles yet — [be the first to contribute!](../CONTRIBUTING.md)*
+- [Designing an Infinite Scroll Feed](../designing-an-infinite-scroll-feed.md)
 
 ## Ideas for Contributions (but not limited to)
 
