@@ -7,6 +7,7 @@ Building inclusive, accessible interfaces — practical a11y beyond the checklis
 <!-- Add a link to your article below, keeping the list alphabetical. -->
 
 - [Frontend Accessibilty Testing Workflow](./frontend-accessibility-testing-workflow.md)
+- [Skip Links: Letting Keyboard Users Bypass Repetitive Navigation](./skip-links.md)
 
 ## Ideas for Contributions (but not limited to)
 
