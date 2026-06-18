@@ -148,3 +148,28 @@ This costs five minutes and catches a surprising fraction of real-world issues t
 - On a failed submit, actively move focus to the first error or an error summary — don't leave the screen reader user stranded on the submit button.
 - Use assertive announcements (`role="alert"`) for failures, and reserve `aria-live="polite"` for non-critical updates.
 - Test every form keyboard-only before considering it done. It's the cheapest accessibility test you can run and it catches real bugs.
+
+## References
+
+**Standards & specifications**
+- [WCAG 2.2 Success Criterion 3.3.1 — Error Identification](https://www.w3.org/WAI/WCAG22/Understanding/error-identification.html)
+- [WCAG 2.2 Success Criterion 3.3.2 — Labels or Instructions](https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.html)
+- [WCAG 2.2 Success Criterion 4.1.2 — Name, Role, Value](https://www.w3.org/WAI/WCAG22/Understanding/name-role-value.html)
+- [WCAG 2.2 Success Criterion 2.4.7 — Focus Visible](https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html)
+- [WAI-ARIA Authoring Practices Guide (APG) — Forms](https://www.w3.org/WAI/ARIA/apg/practices/forms/)
+- [WAI-ARIA 1.2 Specification — `alert` role](https://www.w3.org/TR/wai-aria-1.2/#alert)
+
+**API references**
+- [MDN — `<label>`: The Label element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
+- [MDN — `aria-describedby`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-describedby)
+- [MDN — `aria-invalid`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-invalid)
+- [MDN — ARIA `alert` role](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/alert_role)
+- [MDN — `aria-live`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-live)
+
+**Established patterns & further reading**
+- [GOV.UK Design System — Error summary pattern](https://design-system.service.gov.uk/components/error-summary/)
+- [GOV.UK Design System — Error messages pattern](https://design-system.service.gov.uk/components/error-message/)
+- [WebAIM — Creating Accessible Forms](https://webaim.org/techniques/forms/)
+- [WebAIM — Usable and Accessible Form Validation and Error Recovery](https://webaim.org/techniques/formvalidation/)
+- [Deque University — Focus Management](https://dequeuniversity.com/checklists/web/javascript)
+
