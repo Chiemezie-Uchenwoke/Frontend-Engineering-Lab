@@ -7,6 +7,7 @@ Designing frontend systems at scale — the kind of thinking expected in senior 
 <!-- Add a link to your article below, keeping the list alphabetical. -->
 
 
+- [Designing a Cross-Tab Leader Election System](./designing-a-cross-tab-leader-election-system.md)
 - [Designing an Infinite Scroll Feed](./designing-an-infinite-scroll-feed.md)
 - [Designing Feature Flags in Frontend Applications](./designing-a-feature-flag-system-for-react-saas-applications.md)
 - [Structuring Complex UIs with the Backend-For-Frontend (BFF) Pattern](./structuring-complex-uis-with-the-backend-for-frontend-pattern.md)
